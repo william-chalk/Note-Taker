@@ -1,14 +1,17 @@
 # Note-Taker
 
 ## Description
-
+```
+I WANT to be able to write and save notes
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
+```
 ## Usage
 
 A application where a user can write and save notes or tasks.
 
 ## Website
 
-https://evening-wildwood-66119.herokuapp.com/
+https://sleepy-wave-97575.herokuapp.com/
 
 ## Installation
 
