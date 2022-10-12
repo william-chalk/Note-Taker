@@ -1,7 +1,7 @@
 //imports
 const router = require("express").Router();
 const { notes } = require("../../db/db.json");
-const { createNote, findById, deleteNote } = require("../../lib");
+const { createNote, findById, deleteNote } = require("../../lib/index");
 
 //get "/notes" route and turns notes to jsno
 router.get("/notes", (req, res) => {

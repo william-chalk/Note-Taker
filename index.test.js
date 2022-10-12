@@ -1,8 +1,8 @@
 const fs = require("fs");
 
-const { findById, createNote } = require("../lib/index");
+const { findById, createNote } = require("./lib/index");
 
-const { notes } = require("../db/db.json");
+const { notes } = require("./db/db.json");
 
 jest.mock("fs");
 
