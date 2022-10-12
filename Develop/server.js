@@ -1,8 +1,5 @@
 //imports
-const fs = require("fs");
 const express = require("express");
-
-const { notes } = require("./db/db.json");
 
 const apiRoutes = require("./routes/apiRoutes");
 const htmlRoutes = require("./routes/htmlRoutes");
